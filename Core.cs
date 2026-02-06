@@ -17,6 +17,7 @@ namespace Demon_Bluff_Unofficial_Demo_Fixes
             var harmony = new HarmonyLib.Harmony("tozeon.Demon.Bluff.Patch");
             harmony.PatchAll();
         }
+
     }
 
     [HarmonyPatch(typeof(Health), "Damage")]
@@ -35,14 +36,6 @@ namespace Demon_Bluff_Unofficial_Demo_Fixes
 
                     if (winConditions != null)
                         winConditions.LoseNormal();
-                    Gameplay.ChangeGameplayState(EGameplayState.Summary);
-
-                    Il2CppSystem.Collections.Generic.List<Character> allChars = new Il2CppSystem.Collections.Generic.List<Character>(Gameplay.CurrentCharacters.Pointer);
-
-                    for (int i = 0; i < allChars.Count; i++)
-                    {
-                        allChars[i].Reveal();
-                    }
 
                 }
             }
