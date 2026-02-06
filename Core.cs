@@ -4,10 +4,10 @@ using Il2Cpp;
 using MelonLoader;
 
 
-[assembly: MelonInfo(typeof(Demon_Bluff_Unofficial_Demo_Fixes.Core), "Demon Bluff Demo Fixes", "0.1.0", "tozeon", null)]
+[assembly: MelonInfo(typeof(Demon_Bluff_Unofficial_Playtest_Fixes.Core), "Demon Bluff Playtest Fixes", "0.1.0", "tozeon", null)]
 [assembly: MelonGame("UmiArt", "Demon Bluff")]
 
-namespace Demon_Bluff_Unofficial_Demo_Fixes
+namespace Demon_Bluff_Unofficial_Playtest_Fixes
 {
     public class Core : MelonMod
     {
