@@ -1,4 +1,4 @@
-# Demon Bluff - Unofficial Demo Fixes
+# Demon Bluff - Unofficial Playtest Fixes
 
 ## Description
 
