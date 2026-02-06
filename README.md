@@ -8,7 +8,7 @@ This mod is ***mod agnostic***. It may or may not work with other mods depending
 
 ## Why?
 
-Although the game is still a ***demo/playtest***, I wanted to make small improvements for my own mods. Since I thought others might want the fixes, I decided to make it a separate stand-alone mod. The goal is a compatibility-friendly patch but I can not guarentee if it works with mods others have made.
+Although the game is still a ***demo/playtest***, I wanted to make small improvements for my own mods. Since I thought others might want the fixes, I decided to make it a separate stand-alone mod. The goal is a compatibility-friendly patch but I can not guarantee if it works with mods others have made.
 
 ## Current Fixes
 
