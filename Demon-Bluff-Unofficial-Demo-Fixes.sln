@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36603.0 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demon-Bluff-Unofficial-Demo-Patch", "Demon-Bluff-Unofficial-Demo-Patch.csproj", "{2F55AD2B-EAAF-4DFE-84C1-48979043DC75}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demon-Bluff-Unofficial-Demo-Fixes", "Demon-Bluff-Unofficial-Demo-Fixes.csproj", "{2F55AD2B-EAAF-4DFE-84C1-48979043DC75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

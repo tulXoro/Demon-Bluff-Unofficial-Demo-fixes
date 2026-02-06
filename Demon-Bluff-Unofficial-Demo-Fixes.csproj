@@ -3,13 +3,13 @@
 		<TargetFramework>net6.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>disable</Nullable>
-		<RootNamespace>Demon_Bluff_Unofficial_Demo_Patch</RootNamespace>
+		<RootNamespace>Demon_Bluff_Unofficial_Demo_Fixes</RootNamespace>
 		<LangVersion>default</LangVersion>
 		<IsPackable>false</IsPackable>
 		<AssemblyVersion>1.0.0.0</AssemblyVersion>
 		<FileVersion>1.0.0.0</FileVersion>
 		<NeutralLanguage>en-US</NeutralLanguage>
-		<AssemblyName>Demon_Bluff_Unofficial_Demo_Patch</AssemblyName>
+		<AssemblyName>Demon_Bluff_Unofficial_Demo_Fixes</AssemblyName>
 		<LangVersion>latest</LangVersion>
 		<ImplicitUsings>enable</ImplicitUsings>
 	</PropertyGroup>
