@@ -14,10 +14,6 @@ Although the game is still a ***demo/playtest***, I wanted to make small improve
 
 - Game not ending when health is low
 
-## Planned Fixes
-
-- (mod focused) Killing other characters will not force player to use their pick ability
-
 ## Installation
 
 ### ***Prerequisites***

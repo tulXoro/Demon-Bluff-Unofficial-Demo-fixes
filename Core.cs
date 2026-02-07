@@ -1,7 +1,10 @@
 ﻿using HarmonyLib;
 using Il2Cpp;
-
 using MelonLoader;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Reflection;
 
 
 [assembly: MelonInfo(typeof(Demon_Bluff_Unofficial_Playtest_Fixes.Core), "Demon Bluff Playtest Fixes", "0.1.0", "tozeon", null)]
@@ -17,7 +20,6 @@ namespace Demon_Bluff_Unofficial_Playtest_Fixes
             var harmony = new HarmonyLib.Harmony("tozeon.Demon.Bluff.Patch");
             harmony.PatchAll();
         }
-
     }
 
     [HarmonyPatch(typeof(Health), "Damage")]
